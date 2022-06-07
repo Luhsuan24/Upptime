@@ -9,8 +9,8 @@ sites:
     url: https://www.ted.com/
   - name: NCU
     url: https://www.ncu.edu.tw/tw/index.html
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: NCU MIS
+    url: https://im.mgt.ncu.edu.tw/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
